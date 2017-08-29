@@ -8,7 +8,7 @@ We had web scrape (see [the script here](https://github.com/ibmw/Allocine-projec
 
 ### Description of the data
 We provide the dataset in two version :
-- A one csv files format (brut and clean version) : [allocine_dataset.zip](http://olivier-maillot.fr/wp-content/uploads/2017/08/allocine_dataset.zip)
+- A one csv files format (brut and clean versions) : [allocine_dataset.zip](http://olivier-maillot.fr/wp-content/uploads/2017/08/allocine_dataset.zip)
 - A multiple csv files format (clean version only): [allocine_rel-dataset.zip](http://olivier-maillot.fr/wp-content/uploads/2017/08/allocine_rel-dataset.zip)
 
 The brut file contains **59 966 movies**, but only **10 424 movies** have both press and users ratings.
