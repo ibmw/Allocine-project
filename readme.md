@@ -4,7 +4,7 @@ AlloCiné is a company which provides information on French cinema and provide r
 
 ## The Data
 
-We had web scrape (see [the script here](https://github.com/ibmw/Allocine-project/)) the data from the AlloCiné website.
+We had web scrape (see [the script here](https://github.com/ibmw/Allocine-project/blob/master/Webscraping%20From%20AlloCine.ipynb)) the data from the AlloCiné website.
 
 ### Description of the data
 We provide the dataset in two version :
