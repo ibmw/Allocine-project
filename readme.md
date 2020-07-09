@@ -49,6 +49,9 @@ allocine["genre"] = allocine["genre"].apply(ast.literal_eval)
 
 * **Olivier Maillot** - *Initial work* - [Allociné Project](https://github.com/ibmw/Allocine-project) - [Blog Post](http://wp.me/p8Ffnw-4U)
 
+# Other Analysis
+* [Camille2T Analysis](https://github.com/Camille2T/Movies_ratings_allocine)
+
 # Licence
 
 This project is free. Have fun.
